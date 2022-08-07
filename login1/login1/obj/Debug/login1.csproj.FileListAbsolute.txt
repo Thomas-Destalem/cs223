@@ -1,0 +1,12 @@
+C:\Users\wwwth\source\repos\login1\login1\bin\Debug\login1.exe.config
+C:\Users\wwwth\source\repos\login1\login1\bin\Debug\login1.exe
+C:\Users\wwwth\source\repos\login1\login1\bin\Debug\login1.pdb
+C:\Users\wwwth\source\repos\login1\login1\obj\Debug\login1.csproj.AssemblyReference.cache
+C:\Users\wwwth\source\repos\login1\login1\obj\Debug\login1.csproj.SuggestedBindingRedirects.cache
+C:\Users\wwwth\source\repos\login1\login1\obj\Debug\login1.Form1.resources
+C:\Users\wwwth\source\repos\login1\login1\obj\Debug\login1.Form2.resources
+C:\Users\wwwth\source\repos\login1\login1\obj\Debug\login1.Properties.Resources.resources
+C:\Users\wwwth\source\repos\login1\login1\obj\Debug\login1.csproj.GenerateResource.cache
+C:\Users\wwwth\source\repos\login1\login1\obj\Debug\login1.csproj.CoreCompileInputs.cache
+C:\Users\wwwth\source\repos\login1\login1\obj\Debug\login1.exe
+C:\Users\wwwth\source\repos\login1\login1\obj\Debug\login1.pdb
