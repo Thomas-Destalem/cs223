@@ -1,0 +1,12 @@
+C:\Users\wwwth\source\repos\todolist2\todolist2\bin\Debug\todolist2.exe.config
+C:\Users\wwwth\source\repos\todolist2\todolist2\bin\Debug\todolist2.exe
+C:\Users\wwwth\source\repos\todolist2\todolist2\bin\Debug\todolist2.pdb
+C:\Users\wwwth\source\repos\todolist2\todolist2\obj\Debug\todolist2.csproj.AssemblyReference.cache
+C:\Users\wwwth\source\repos\todolist2\todolist2\obj\Debug\todolist2.csproj.SuggestedBindingRedirects.cache
+C:\Users\wwwth\source\repos\todolist2\todolist2\obj\Debug\todolist2.Form1.resources
+C:\Users\wwwth\source\repos\todolist2\todolist2\obj\Debug\todolist2.Form2.resources
+C:\Users\wwwth\source\repos\todolist2\todolist2\obj\Debug\todolist2.Properties.Resources.resources
+C:\Users\wwwth\source\repos\todolist2\todolist2\obj\Debug\todolist2.csproj.GenerateResource.cache
+C:\Users\wwwth\source\repos\todolist2\todolist2\obj\Debug\todolist2.csproj.CoreCompileInputs.cache
+C:\Users\wwwth\source\repos\todolist2\todolist2\obj\Debug\todolist2.exe
+C:\Users\wwwth\source\repos\todolist2\todolist2\obj\Debug\todolist2.pdb
