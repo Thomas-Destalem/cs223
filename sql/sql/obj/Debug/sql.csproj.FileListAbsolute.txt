@@ -1,0 +1,6 @@
+C:\Users\wwwth\source\repos\sql\sql\obj\Debug\sql.csproj.AssemblyReference.cache
+C:\Users\wwwth\source\repos\sql\sql\obj\Debug\sql.csproj.SuggestedBindingRedirects.cache
+C:\Users\wwwth\source\repos\sql\sql\obj\Debug\sql.Form1.resources
+C:\Users\wwwth\source\repos\sql\sql\obj\Debug\sql.Properties.Resources.resources
+C:\Users\wwwth\source\repos\sql\sql\obj\Debug\sql.csproj.GenerateResource.cache
+C:\Users\wwwth\source\repos\sql\sql\obj\Debug\sql.csproj.CoreCompileInputs.cache
